@@ -47,8 +47,7 @@ export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
               >
                 <Button onClick={() => decreaseCartQuantity(id)}>-</Button>
                 <div>
-                  <span className="fs-3">{quantity}</span>
-                  in cart
+                  <span className="fs-3">{quantity}</span> in cart
                 </div>
 
                 <Button onClick={() => increaseCartQuantity(id)}>+</Button>
