@@ -10,6 +10,6 @@
 * TypeScript
 * Node.JS
 
-# Live site
+# Deployed site
 
 https://benevolent-centaur-b68efe.netlify.app/store
